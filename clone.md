@@ -4,7 +4,7 @@ sort: 3
 
 # GitHub Classroom①
 
-本授業では、 **GitHub Classroom** を利用してコードの取得や課題提出をします。
+本授業では **GitHub Classroom** を利用してコードの取得や課題提出をします。
 GitHub Classroomは、GitHubを利用した課題管理ツールで、課題の提出や採点を効率的に行うことができるサービスです。
 
 ## GitHub Classroomからコードを取得(clone)

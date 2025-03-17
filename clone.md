@@ -19,24 +19,23 @@ GitHub Classroomからコードを取得します。
    ※ログインを求められた場合は、GitHubアカウントでログインしてください。
 3. 自分の名前を選んでクリック<br>
 ![](./images/join_the_classroom.png){: style="width: 660px;height: auto;" }<br><br>
-![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.009.png){: style="width: 660px;height: auto;" }<br><br>
-4. `Accept this assignment`をクリック<br>
-![](./images/accept_the_assignment.png){: style="width: 660px;height: auto;" }<br><br>
-5. コード取得用のリンクをクリック
+1. `Accept this assignment`をクリック<br>
+![](./images/accept_assignment.png){: style="width: 660px;height: auto;" }<br><br>
+1. コード取得用のリンクをクリック
    ※リンクが表示されない場合は、ブラウザをリロードしてください。<br>
 ![](./images/repository_link.png){: style="width: 660px;height: auto;" }<br><br>
-6. 緑色のボタン(<>Code)をクリック
-7. HTTPSタブを選び、コピー用ボタンでURLをコピー<br>
+1. 緑色のボタン(<>Code)をクリック
+2. HTTPSタブを選び、コピー用ボタンでURLをコピー<br>
 ![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.013.jpeg){: style="width: 660px;height: auto;" }<br><br>
-8. Git Graphのアイコンをクリックし、リポジトリのクローンをクリック<br>
+1. Git Graphのアイコンをクリックし、リポジトリのクローンをクリック<br>
    ※`Ctrl+Shift+P`を押し、フォームに`git: clone`と入力しても同様の操作ができます。
-9. 先ほどコピーしたリポジトリのURLを貼り付け、Enterを押してください。<br>
+2. 先ほどコピーしたリポジトリのURLを貼り付け、Enterを押してください。<br>
 ![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.017.png){: style="width: 660px;height: auto;" }<br><br>
-10. フォルダの選択画面になるので、Cドライブ直下の`web_app_dev` フォルダを選択
-11. 認証を求められるので、ブラウザでアカウントを入れて認証する<br>
+1.  フォルダの選択画面になるので、Cドライブ直下の`web_app_dev` フォルダを選択
+2.  認証を求められるので、ブラウザでアカウントを入れて認証する<br>
     ※求められなければ無視してください。<br>
     ![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.018.jpeg){: style="width: 660px;height: auto;" }<br><br>
-12. 認証に成功すれば、`web_app_dev` フォルダに取得(clone)されたコードが確認できればOK<br>
+3.  認証に成功すれば、`web_app_dev` フォルダに取得(clone)されたコードが確認できればOK<br>
 
 ```note
 ### cloneできなかった場合

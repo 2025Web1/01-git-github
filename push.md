@@ -51,7 +51,7 @@ commitメッセージを入れ忘れると、commitができず、「COMMIT_EDIT
 
 1. 変更の同期ボタンをクリック<br>
    ![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.022.png){: style="width: 660px;height: auto;" }
-2. GitHub Classroomのリンクにアクセスし、編集内容が反映されていればOK<br>
+2. [GitHub Classroomのリンク](https://classroom.github.com/a/bPW2aS9n)にアクセスし、編集内容が反映されていればOK<br>
 ![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.021.png){: style="width: 660px;height: auto;" }
 3. kadai.txtを押して、中身が変わっていればOK
 ![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.023.png){: style="width: 660px;height: auto;" }

@@ -20,7 +20,7 @@ GitHub Classroomからコードを取得します。
 3. 自分の名前を選んでクリック<br>
 ![](./images/join_the_classroom.png){: style="width: 660px;height: auto;" }<br><br>
 1. `Accept this assignment`をクリック<br>
-![](./images/accept_assignment.png){: style="width: 660px;height: auto;" }<br><br>
+![](./images/accept-assignment.png){: style="width: 660px;height: auto;" }<br><br>
 1. コード取得用のリンクをクリック
    ※リンクが表示されない場合は、ブラウザをリロードしてください。<br>
 ![](./images/repository_link.png){: style="width: 660px;height: auto;" }<br><br>

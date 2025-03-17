@@ -14,7 +14,7 @@ sort: 4
 1. 課題として提出するフォルダをVSCodeで開く<br>
    VSCodeのメニューから「ファイル->フォルダーを開く」を選択し、`C:¥web_app_dev¥01-git...`を選択してください。
 2. `kadai.txt`を開き、「A.」の横に好きな食べ物を入力し、保存する
-3. VSCodeサイドバーのGit Graphのアイコン![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.016.png){: style="width: 60px;height: auto;" }をクリック
+3. VSCodeサイドバーのGit Graphのアイコン![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.016.png){: style="width: 30px;height: auto;" }をクリック
 4. 変更の欄に`kadai.txt`が表示されていることを確認し、+ボタンをクリック<br>
 ![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.019.png){: style="width: 660px;height: auto;" }
 5. `kadai.txt`がステージされている変更に移動していれば、addは成功

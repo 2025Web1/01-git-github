@@ -19,22 +19,23 @@ GitHub Classroomからコードを取得します。
    ※ログインを求められた場合は、GitHubアカウントでログインしてください。
 3. 自分の名前を選んでクリック<br>
 ![](./images/join_the_classroom.png){: style="width: 660px;height: auto;" }<br><br>
-1. `Accept this assignment`をクリック<br>
+4. `Accept this assignment`をクリック<br>
 ![](./images/accept-assignment.png){: style="width: 660px;height: auto;" }<br><br>
-1. コード取得用のリンクをクリック<br>
+5. コード取得用のリンクをクリック<br>
    ※リンクが表示されない場合は、ブラウザをリロードしてください。<br>
 ![](./images/repository_link.png){: style="width: 660px;height: auto;" }<br><br>
-1. 「①緑色のボタン(<>Code)」 → 「②HTTPSタブ」 → 「③コピー用ボタン」をクリックし、clone用URLをコピー<br>
+6. 「①緑色のボタン(<>Code)」 → 「②HTTPSタブ」 → 「③コピー用ボタン」をクリックし、clone用URLをコピー<br>
 ![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.013.jpeg){: style="width: 660px;height: auto;" }<br><br>
-1. Git Graphのアイコンをクリックし、リポジトリのクローンをクリック<br>
-   ※`Ctrl+Shift+P`を押し、フォームに`git: clone`と入力しても同様の操作ができます。
-2. 先ほどコピーしたリポジトリのURLを貼り付け、Enterを押してください。<br>
+7. `Ctrl+Shift+P`でVSCodeのコマンドパレットを出し、`git clone`と入力後、「Git: クローン」をクリック<br>
+   ![](./images/command-pallet.png){: style="width: 660px;height: auto;" }<br><br>
+8. 先ほどコピーしたリポジトリのURLを貼り付けEnter<br>
 ![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.017.png){: style="width: 660px;height: auto;" }<br><br>
-1.  フォルダの選択画面になるので、Cドライブ直下の`web_app_dev` フォルダを選択
-2.  認証を求められるので、ブラウザでアカウントを入れて認証する<br>
+9.  フォルダの選択画面になるので、Cドライブ直下の`web_app_dev` フォルダを選択
+10.  認証を求められるので、ブラウザでアカウントを入れて認証する<br>
     ※求められなければ無視してください。<br>
     ![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.018.jpeg){: style="width: 660px;height: auto;" }<br><br>
-3.  認証に成功すれば、`web_app_dev` フォルダに取得(clone)されたコードが確認できればOK<br>
+11.  `web_app_dev` フォルダに取得(clone)されたコードが確認できればOK<br>
+    ![](./images/web_app_dev.png){: style="width: 660px;height: auto;" }
 
 ```note
 ### cloneできなかった場合

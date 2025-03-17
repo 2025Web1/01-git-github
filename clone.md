@@ -15,7 +15,7 @@ GitHub Classroomからコードを取得します。
 今後も章が進むたびに、この手順を繰り返すので、慣れるようにしましょう。
 
 1. 本授業のコード保管用フォルダ`¥web_app_dev`を、Cドライブ直下に作成
-2. [こちらのリンク]()にアクセス<br>
+2. [こちらのリンク](https://classroom.github.com/a/bPW2aS9n)にアクセス<br>
    ※ログインを求められた場合は、GitHubアカウントでログインしてください。
 3. 自分の名前を選んでクリック<br>
 ![](./images/join_the_classroom.png){: style="width: 660px;height: auto;" }<br><br>

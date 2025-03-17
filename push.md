@@ -36,8 +36,11 @@ commitを行うためには、メッセージを入力する必要がありま�
 ```note
 ### commitのメッセージを入力し忘れると...
 
-commitメッセージを入れ忘れると、commitができず、`COMMIT_EDITMSG`というファイルが開かれます。
-解決するには、`COMMIT_EDITMSG`の1行目に、メッセージを入力して保存すればcommitできます。
+commitメッセージを入れ忘れると、commitができず、「COMMIT_EDITMSG」というファイルが開かれます。
+解決するには、「COMMIT_EDITMSG」を閉じると再度commitメッセージを入力することができるようにります。
+
+![](./images/commit_editmsg1.png){: style="width: 660px;height: auto;" }
+![](./images/commit_editmsg2.png){: style="width: 660px;height: auto;" }
 ```
 
 ## GitHub Classroomに提出(push)

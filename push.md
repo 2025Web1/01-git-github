@@ -17,13 +17,14 @@ sort: 4
 3. VSCodeサイドバーのGit Graphのアイコン![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.016.png){: style="width: 30px;height: auto;" }をクリック
 4. 変更の欄に`kadai.txt`が表示されていることを確認し、+ボタンをクリック<br>
 ![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.019.png){: style="width: 660px;height: auto;" }
-5. `kadai.txt`がステージされている変更に移動していれば、addは成功
+5. `kadai.txt`が「ステージされている変更に」移動していれば、addは成功
+   ![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.020.png){: style="width: 660px;height: auto;" }
 
 ## ファイルの変更をコミット(commit)
 
 ![](./images/git_image_commit.jpg){: style="width: 660px;height: auto;" }
 
-commitを行うためには、変更理由を記録する必要があります。
+commitを行うためには、メッセージを入力する必要があります。
 最初に変更理由の記録からはじめます。
 
 1. メッセージの欄に変更理由を入力<br>
@@ -33,10 +34,10 @@ commitを行うためには、変更理由を記録する必要があります�
 1. ✔のボタンを押すとcommitは完了です。
 
 ```note
-### commitのメッセージを入れ忘れると...
+### commitのメッセージを入力し忘れると...
 
-commitメッセージを入れ忘れると、commitができません。
-解決するには、`COMMIT_EDITMSG`というファイルが開かれるので、1行目に変更理由を入力して保存すればcommitできます。
+commitメッセージを入れ忘れると、commitができず、`COMMIT_EDITMSG`というファイルが開かれます。
+解決するには、`COMMIT_EDITMSG`の1行目に、メッセージを入力して保存すればcommitできます。
 ```
 
 ## GitHub Classroomに提出(push)

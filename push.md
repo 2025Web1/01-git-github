@@ -54,7 +54,8 @@ commitメッセージを入れ忘れると、commitができず、「COMMIT_EDIT
    ![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.022.png){: style="width: 660px;height: auto;" }
 2. [GitHub Classroomのリンク](https://classroom.github.com/a/bPW2aS9n)にアクセスし、編集内容が反映されていればOK<br>
 ![](./images/kadai_txt.png){: style="width: 660px;height: auto;" }
-1. kadai.txtを押して、中身が変わっていればOK
+1. kadai.txtを押して、中身が変わっていればOK<br>
+   ※現時点で画面上部の「❌」は無視して大丈夫です。<br> 
 ![](./images/kadai_txt_in.png){: style="width: 660px;height: auto;" }
 1. 提出完了<br>
    今後の課題は、このようにGitHub Classroomに提出してもらいます。

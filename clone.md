@@ -21,11 +21,10 @@ GitHub Classroomからコードを取得します。
 ![](./images/join_the_classroom.png){: style="width: 660px;height: auto;" }<br><br>
 1. `Accept this assignment`をクリック<br>
 ![](./images/accept-assignment.png){: style="width: 660px;height: auto;" }<br><br>
-1. コード取得用のリンクをクリック
+1. コード取得用のリンクをクリック<br>
    ※リンクが表示されない場合は、ブラウザをリロードしてください。<br>
 ![](./images/repository_link.png){: style="width: 660px;height: auto;" }<br><br>
-1. 緑色のボタン(<>Code)をクリック
-2. HTTPSタブを選び、コピー用ボタンでURLをコピー<br>
+1. 「①緑色のボタン(<>Code)」 → 「②HTTPSタブ」 → 「③コピー用ボタン」をクリックし、clone用URLをコピー<br>
 ![](./images/Aspose.Words.aedafcf0-3819-4263-af12-50337a38362b.013.jpeg){: style="width: 660px;height: auto;" }<br><br>
 1. Git Graphのアイコンをクリックし、リポジトリのクローンをクリック<br>
    ※`Ctrl+Shift+P`を押し、フォームに`git: clone`と入力しても同様の操作ができます。

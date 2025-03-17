@@ -47,9 +47,10 @@ GitHub Classroomからコードを取得します。
   過去に別のGitHubアカウントを作成し、Gitを利用した経験がある方は、`repository not found`のエラーでcloneできない場合があります。
   その場合は、以下サンプルのように、cloneするリポジトリのURLに`ユーザー名@`を追記し、再度cloneをしてください。(ここでいう「ユーザー名」はアカウント作成時に登録したユーザー名です。)
 
-    ```
+
     https://ユーザー名@github.com/〜.git
-    ```
+    
+
 
 ◆ cloneが終わらない
 

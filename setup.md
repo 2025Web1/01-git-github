@@ -34,8 +34,6 @@ Visual Studio Code(以下、「VSCode」と呼ぶ)のWebサイトにアクセス
 VSCodeが起動されればOKです。<br>
 ![](./images/Aspose.Words.a262145e-b3c2-4e51-a607-826ad36f58eb.005.png)
 
-出力に`user.name`と`user.email`の項目があるので、設定したとおりになっていればOKです。
-
 ## VSCodeの日本語化プラグインインストール
 
 VSCodeを日本語化する **Japanese Language Pack for Visual Studio Code** というプラグインをインストールします。

@@ -93,7 +93,7 @@ winget install --id Git.Git
 4. 新規をクリックし、`C:¥Program Files¥Git¥cmd`を追加し、赤枠内のように設定できればOK
 ![](./images/git_pass3.jpg){: style="width: 510px;height: auto;" }
 
-5. PowerShellもしくはコマンドプロンプトを再起動し、`git --version`を実行し、バージョンが表示されればOK
+5. **PowerShellもしくはコマンドプロンプトを再起動**し、`git --version`を実行し、バージョンが表示されればOK
 ```
 
 ## Gitの初期設定
